@@ -1,0 +1,232 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="KAPAMILYA" tvg-id="kapamilya/a2z" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", A2Z
+https://enixph.b-cdn.net/a2z/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:2 group-title="KAPAMILYA" tvg-id="kapamilya/abcaustralia" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ABC AUSTRALIA
+https://enixph.b-cdn.net/abcaustralia/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:3 group-title="KAPAMILYA" tvg-id="kapamilya/aljazeera" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ALJAZEERA
+https://enixph.b-cdn.net/aljazeera/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:4 group-title="KAPAMILYA" tvg-id="kapamilya/animalplanet" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ANIMAL PLANET
+https://enixph.b-cdn.net/animalplanet/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:5 group-title="KAPAMILYA" tvg-id="kapamilya/animax" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ANIMAX
+https://enixph.b-cdn.net/animax/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:6 group-title="KAPAMILYA" tvg-id="kapamilya/aniplus" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ANIPLUS
+https://enixph.b-cdn.net/aniplus/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:7 group-title="KAPAMILYA" tvg-id="kapamilya/arirang" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ARIRANG
+https://enixph.b-cdn.net/arirang/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:8 group-title="KAPAMILYA" tvg-id="kapamilya/axn" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", AXN
+https://enixph.b-cdn.net/axn/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:9 group-title="KAPAMILYA" tvg-id="kapamilya/bbcearth" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", BBC EARTH
+https://enixph.b-cdn.net/bbcearth/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:10 group-title="KAPAMILYA" tvg-id="kapamilya/bloomberg" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", BLOOMBERG
+https://enixph.b-cdn.net/bloomberg/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:11 group-title="KAPAMILYA" tvg-id="kapamilya/bollywood" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", Bollywood
+https://enixph.b-cdn.net/bollywood/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:12 group-title="KAPAMILYA" tvg-id="kapamilya/buko" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", BUKO
+https://enixph.b-cdn.net/buko/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:13 group-title="KAPAMILYA" tvg-id="kapamilya/cartoonnetwork" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", CARTOON NETWORK
+https://enixph.b-cdn.net/cartoonnetwork/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:14 group-title="KAPAMILYA" tvg-id="kapamilya/cctv4" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", CCTV4
+https://enixph.b-cdn.net/cctv4/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:15 group-title="KAPAMILYA" tvg-id="kapamilya/celestialpinoy" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", CELESTIAL PINOY
+https://enixph.b-cdn.net/celestialpinoy/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:16 group-title="KAPAMILYA" tvg-id="kapamilya/cinemax" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", CINEMAX
+https://enixph.b-cdn.net/cinemax/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:17 group-title="KAPAMILYA" tvg-id="kapamilya/cna" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", CNA
+https://enixph.b-cdn.net/cna/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:18 group-title="KAPAMILYA" tvg-id="kapamilya/crime" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", CRIME
+https://enixph.b-cdn.net/crime/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:19 group-title="KAPAMILYA" tvg-id="kapamilya/dreamworkshd" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", DREAMWORKS HD
+https://enixph.b-cdn.net/dreamworkshd/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:20 group-title="KAPAMILYA" tvg-id="kapamilya/dreamworkstagalog" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", DREAMWORKS TAGALOG
+https://enixph.b-cdn.net/dreamworkstagalog/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:21 group-title="KAPAMILYA" tvg-id="kapamilya/fashiontv" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", FASHION TV
+https://enixph.b-cdn.net/fashiontv/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:22 group-title="KAPAMILYA" tvg-id="kapamilya/france24" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", FRANCE 24
+https://enixph.b-cdn.net/france24/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:23 group-title="KAPAMILYA" tvg-id="kapamilya/kchannel" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", GMA
+https://enixph.b-cdn.net/kchannel/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:24 group-title="KAPAMILYA" tvg-id="kapamilya/gtv" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", GTV
+https://enixph.b-cdn.net/gtv/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:25 group-title="KAPAMILYA" tvg-id="kapamilya/hallypop" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", HALLYPOP
+https://enixph.b-cdn.net/hallypop/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:26 group-title="KAPAMILYA" tvg-id="kapamilya/hbofamily" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", HBO FAMILY
+https://enixph.b-cdn.net/hbofamily/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:27 group-title="KAPAMILYA" tvg-id="kapamilya/hbohd" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", HBO HD
+https://enixph.b-cdn.net/hbohd/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:28 group-title="KAPAMILYA" tvg-id="kapamilya/hbohits" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", HBO HITS
+https://enixph.b-cdn.net/hbohits/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:29 group-title="KAPAMILYA" tvg-id="kapamilya/hbosignature" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", HBO SIGNATURE
+https://enixph.b-cdn.net/hbosignature/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:30 group-title="KAPAMILYA" tvg-id="kapamilya/hgtv" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", HGTV
+https://enixph.b-cdn.net/hgtv/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:31 group-title="KAPAMILYA" tvg-id="kapamilya/history" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", HISTORY
+https://enixph.b-cdn.net/history/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:32 group-title="KAPAMILYA" tvg-id="kapamilya/hitshd" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", HITS HD
+https://enixph.b-cdn.net/hitshd/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:33 group-title="KAPAMILYA" tvg-id="kapamilya/hitsmovies" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", HITS MOVIES
+https://enixph.b-cdn.net/hitsmovies/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:34 group-title="KAPAMILYA" tvg-id="kapamilya/hitsnow" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", HITS NOW
+https://enixph.b-cdn.net/hitsnow/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:35 group-title="KAPAMILYA" tvg-id="kapamilya/ibc" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", IBC
+https://enixph.b-cdn.net/ibc/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:36 group-title="KAPAMILYA" tvg-id="kapamilya/ihm" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", IHM
+https://enixph.b-cdn.net/ihm/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:37 group-title="KAPAMILYA" tvg-id="kapamilya/kapamilyachannel" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", KAPAMILYA CHANNEL
+https://enixph.b-cdn.net/kapamilyachannel/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:38 group-title="KAPAMILYA" tvg-id="kapamilya/kbsworld" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", KBS WORLD
+https://enixph.b-cdn.net/kbsworld/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:39 group-title="KAPAMILYA" tvg-id="kapamilya/kix" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", KIX
+https://enixph.b-cdn.net/kix/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:40 group-title="KAPAMILYA" tvg-id="kapamilya/knowledgechannel" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", KNOWLEDGE-CHANNEL
+https://enixph.b-cdn.net/knowledgechannel/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:41 group-title="KAPAMILYA" tvg-id="kapamilya/lifetimesd" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", LIFETIME SD
+https://enixph.b-cdn.net/lifetimesd/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:42 group-title="KAPAMILYA" tvg-id="kapamilya/moonbugkids" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", MOONBUG KIDS
+https://enixph.b-cdn.net/moonbugkids/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:43 group-title="KAPAMILYA" tvg-id="kapamilya/mptv" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", MPTV
+https://enixph.b-cdn.net/mptv/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:44 group-title="KAPAMILYA" tvg-id="kapamilya/nbaphilippines" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", NBA PHILIPPINES
+https://enixph.b-cdn.net/nbaphilippines/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:45 group-title="KAPAMILYA" tvg-id="kapamilya/nhkworldjapan" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", NHK WORLD JAPAN
+https://enixph.b-cdn.net/nhkworldjapan/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:46 group-title="KAPAMILYA" tvg-id="kapamilya/nickjr" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", NICK JR
+https://enixph.b-cdn.net/nickjr/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:47 group-title="KAPAMILYA" tvg-id="kapamilya/nickelodeon" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", NICKELODEON
+https://enixph.b-cdn.net/nickelodeon/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:48 group-title="KAPAMILYA" tvg-id="kapamilya/onenews" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ONE NEWS
+https://enixph.b-cdn.net/onenews/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:49 group-title="KAPAMILYA" tvg-id="kapamilya/oneph" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ONE PH
+https://enixph.b-cdn.net/oneph/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:50 group-title="KAPAMILYA" tvg-id="kapamilya/onesport" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ONE SPORT
+https://enixph.b-cdn.net/onesport/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:51 group-title="KAPAMILYA" tvg-id="kapamilya/pbarush" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", PBA RUSH
+https://enixph.b-cdn.net/pbarush/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:52 group-title="KAPAMILYA" tvg-id="kapamilya/pbo" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", PBO
+https://enixph.b-cdn.net/pbo/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:53 group-title="KAPAMILYA" tvg-id="kapamilya/premiersports" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", PREMIER SPORTS
+https://enixph.b-cdn.net/premiersports/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:54 group-title="KAPAMILYA" tvg-id="kapamilya/premiersports2" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", PREMIER SPORTS2
+https://enixph.b-cdn.net/premiersports2/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:55 group-title="KAPAMILYA" tvg-id="kapamilya/ptv4" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", PTV 4
+https://enixph.b-cdn.net/ptv4/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:56 group-title="KAPAMILYA" tvg-id="kapamilya/rockaction" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ROCK ACTION
+https://enixph.b-cdn.net/rockaction/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:57 group-title="KAPAMILYA" tvg-id="kapamilya/rockentertainment" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ROCK ENTERTAINMENT
+https://enixph.b-cdn.net/rockentertainment/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:58 group-title="KAPAMILYA" tvg-id="kapamilya/rptv" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", rptv
+https://enixph.b-cdn.net/rptv/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:59 group-title="KAPAMILYA" tvg-id="kapamilya/sarisari" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", SARI-SARI
+https://enixph.b-cdn.net/sarisari/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:60 group-title="KAPAMILYA" tvg-id="kapamilya/spottv2" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", SPOT TV2
+https://enixph.b-cdn.net/spottv2/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:61 group-title="KAPAMILYA" tvg-id="kapamilya/spotv" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", SPOTV
+https://enixph.b-cdn.net/spotv/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:62 group-title="KAPAMILYA" tvg-id="kapamilya/tapedge" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TAP EDGE
+https://enixph.b-cdn.net/tapedge/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:63 group-title="KAPAMILYA" tvg-id="kapamilya/tapmovies" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TAP MOVIES
+https://enixph.b-cdn.net/tapmovies/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:64 group-title="KAPAMILYA" tvg-id="kapamilya/tapsports" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TAP SPORTS
+https://enixph.b-cdn.net/tapsports/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:65 group-title="KAPAMILYA" tvg-id="kapamilya/taptv" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TAP TV
+https://enixph.b-cdn.net/taptv/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:66 group-title="KAPAMILYA" tvg-id="kapamilya/techstorm" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TECH STORM
+https://enixph.b-cdn.net/techstorm/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:67 group-title="KAPAMILYA" tvg-id="kapamilya/thrill" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", THRILL
+https://enixph.b-cdn.net/thrill/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:68 group-title="KAPAMILYA" tvg-id="kapamilya/tmc" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TMC
+https://enixph.b-cdn.net/tmc/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:69 group-title="KAPAMILYA" tvg-id="kapamilya/tvmaria" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TV MARIA
+https://enixph.b-cdn.net/tvmaria/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:70 group-title="KAPAMILYA" tvg-id="kapamilya/tv5" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TV5
+https://enixph.b-cdn.net/tv5/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:71 group-title="KAPAMILYA" tvg-id="kapamilya/tv5monde" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TV5 MONDE
+https://enixph.b-cdn.net/tv5monde/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:72 group-title="KAPAMILYA" tvg-id="kapamilya/tvnmoviespinoy" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TVN MOVIES PINOY
+https://enixph.b-cdn.net/tvnmoviespinoy/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:73 group-title="KAPAMILYA" tvg-id="kapamilya/tvnpremium" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TVN PREMIUM+
+https://enixph.b-cdn.net/tvnpremium/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:74 group-title="KAPAMILYA" tvg-id="kapamilya/tvup" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", TVUP
+https://enixph.b-cdn.net/tvup/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:75 group-title="KAPAMILYA" tvg-id="kapamilya/uaap" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", UAAP
+https://enixph.b-cdn.net/uaap/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:76 group-title="KAPAMILYA" tvg-id="kapamilya/vivacinema" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", VIVA CINEMA
+https://enixph.b-cdn.net/vivacinema/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+
+#EXTINF:77 group-title="KAPAMILYA" tvg-id="kapamilya/warnertv" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", WARNER TV
+https://enixph.b-cdn.net/warnertv/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
