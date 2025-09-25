@@ -4,13 +4,13 @@
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_480p.m3u8
 
 #EXTINF:2 group-title="KAPAMILYA" tvg-id="kapamilya/abcaustralia" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ABC AUSTRALIA
-https://enixph.b-cdn.net/abcaustralia/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
 
 #EXTINF:3 group-title="KAPAMILYA" tvg-id="kapamilya/aljazeera" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ALJAZEERA
-https://enixph.b-cdn.net/aljazeera/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+https:\\d36joy6bh8xxe2.cloudfront.net\master.m3u8
 
 #EXTINF:4 group-title="KAPAMILYA" tvg-id="kapamilya/animalplanet" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ANIMAL PLANET
-https://enixph.b-cdn.net/animalplanet/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+https:\\32382cb8d8ca489191d635f7320e54b6.mediatailor.us-east-1.amazonaws.com\v1\master\04fd913bb278d8775298c26fdca9d9841f37601f\LG_BabySharkTV\playlist.m3u8
 
 #EXTINF:5 group-title="KAPAMILYA" tvg-id="kapamilya/animax" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ANIMAX
 https://enixph.b-cdn.net/animax/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
