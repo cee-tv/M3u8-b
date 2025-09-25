@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=""
 
 #EXTINF:1 group-title="KAPAMILYA" tvg-id="kapamilya/a2z" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", A2Z
-https://enixph.b-cdn.net/a2z/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_480p.m3u8
 
 #EXTINF:2 group-title="KAPAMILYA" tvg-id="kapamilya/abcaustralia" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv", ABC AUSTRALIA
 https://enixph.b-cdn.net/abcaustralia/master.m3u8?u=enix2&p=14db563835c1d957c70138e2bc3bb23422b54f7f22fd313bf8e6721a5449e94b
